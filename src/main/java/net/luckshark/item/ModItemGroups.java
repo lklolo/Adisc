@@ -49,6 +49,21 @@ public class ModItemGroups {
                             entries.add(ModItems.ADISC_MUSIC_DISC_ANGLES);
                             entries.add(ModItems.ADISC_MUSIC_DISC_BLACKBIRTH);
 
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_EIGHTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_ELEVENTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_FIFTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_FIRST);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_FOURTEENTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_FOURTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_NINTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_SECOND);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_SEVENTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_SIXTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_TENTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_THIRD);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_THIRTEENTH);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_BOND_TWELFTH);
+
                         })
                         .build()
         );

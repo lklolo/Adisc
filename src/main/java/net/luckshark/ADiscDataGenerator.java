@@ -14,7 +14,6 @@ public class ADiscDataGenerator implements DataGeneratorEntrypoint {
 		pack.addProvider(ModBlockTagsProvider::new);
 		pack.addProvider(ModItemTagsProvider::new);
 		pack.addProvider(ModLootTableProvider::new);
-		pack.addProvider(ModModelsProvider::new);
 		pack.addProvider(ModRecipesProvider::new);
 		pack.addProvider(ModENUSLanProvider::new);
 		pack.addProvider(ModZHCNLanProvider::new);

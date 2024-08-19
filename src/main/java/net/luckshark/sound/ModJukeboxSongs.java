@@ -39,6 +39,21 @@ public interface ModJukeboxSongs {
     RegistryKey<JukeboxSong> ADISC_ANGLES = of("adisc_angles");
     RegistryKey<JukeboxSong> ADISC_WELCOMETOAVEMUJICA = of("adisc_welcometoavemujica");
 
+    RegistryKey<JukeboxSong> ADISC_BOND_EIGHTH = of("adisc_bond_eighth");
+    RegistryKey<JukeboxSong> ADISC_BOND_ELEVENTH = of("adisc_bond_eleventh");
+    RegistryKey<JukeboxSong> ADISC_BOND_FIFTH = of("adisc_bond_fifth");
+    RegistryKey<JukeboxSong> ADISC_BOND_FIRST = of("adisc_bond_first");
+    RegistryKey<JukeboxSong> ADISC_BOND_FOURTEENTH = of("adisc_bond_fourteenth");
+    RegistryKey<JukeboxSong> ADISC_BOND_FOURTH = of("adisc_bond_fourth");
+    RegistryKey<JukeboxSong> ADISC_BOND_NINTH = of("adisc_bond_ninth");
+    RegistryKey<JukeboxSong> ADISC_BOND_SECOND = of("adisc_bond_second");
+    RegistryKey<JukeboxSong> ADISC_BOND_SEVENTH = of("adisc_bond_seventh");
+    RegistryKey<JukeboxSong> ADISC_BOND_SIXTH = of("adisc_bond_sixth");
+    RegistryKey<JukeboxSong> ADISC_BOND_TENTH = of("adisc_bond_tenth");
+    RegistryKey<JukeboxSong> ADISC_BOND_THIRD = of("adisc_bond_third");
+    RegistryKey<JukeboxSong> ADISC_BOND_THIRTEENTH = of("adisc_bond_thirteenth");
+    RegistryKey<JukeboxSong> ADISC_BOND_TWELFTH = of("adisc_bond_twelfth");
+
     private static RegistryKey<JukeboxSong> of(String id) {
         return RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(ADisc.MOD_ID, id));
     }
@@ -76,5 +91,21 @@ public interface ModJukeboxSongs {
         register(registry, ADISC_BLACKBIRTH, ModSoundEvents.ADISC_MUSIC_DISC_BLACKBIRTH, 223, 15);
         register(registry, ADISC_ANGLES, ModSoundEvents.ADISC_MUSIC_DISC_ANGLES, 276, 15);
         register(registry, ADISC_WELCOMETOAVEMUJICA, ModSoundEvents.ADISC_MUSIC_DISC_WELCOMETOAVEMUJICA, 258, 15);
+
+        register(registry, ADISC_BOND_EIGHTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_EIGHTH, 265, 15);
+        register(registry, ADISC_BOND_ELEVENTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_ELEVENTH, 223, 15);
+        register(registry, ADISC_BOND_FIFTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_FIFTH, 229, 15);
+        register(registry, ADISC_BOND_FIRST, ModSoundEvents.ADISC_MUSIC_DISC_BOND_FIRST, 203, 15);
+        register(registry, ADISC_BOND_FOURTEENTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_FOURTEENTH, 271, 15);
+        register(registry, ADISC_BOND_FOURTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_FOURTH, 232, 15);
+        register(registry, ADISC_BOND_NINTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_NINTH, 223, 15);
+        register(registry, ADISC_BOND_SECOND, ModSoundEvents.ADISC_MUSIC_DISC_BOND_SECOND, 232, 15);
+        register(registry, ADISC_BOND_SEVENTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_SEVENTH, 213, 15);
+        register(registry, ADISC_BOND_SIXTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_SIXTH, 189, 15);
+        register(registry, ADISC_BOND_TENTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_TENTH, 227, 15);
+        register(registry, ADISC_BOND_THIRD, ModSoundEvents.ADISC_MUSIC_DISC_BOND_THIRD, 203, 15);
+        register(registry, ADISC_BOND_THIRTEENTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_THIRTEENTH, 275, 15);
+        register(registry, ADISC_BOND_TWELFTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_TWELFTH, 258, 15);
+
     }
 }

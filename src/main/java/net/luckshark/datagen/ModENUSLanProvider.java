@@ -66,5 +66,35 @@ public class ModENUSLanProvider extends FabricLanguageProvider {
         translationBuilder.add("jukebox_song.adisc.adisc_blackbirth", "Ave Mujica - BlackBirth");
         translationBuilder.add("jukebox_song.adisc.adisc_angles", "Ave Mujica - Angles");
         translationBuilder.add("jukebox_song.adisc.adisc_welcometoavemujica", "Ave Mujica - Welcome to AveMujica");
+
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_EIGHTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_eighth", "结束バンド - カラカラ");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_ELEVENTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_eleventh", "结束バンド - 忘れてやらない");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_FIFTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_fifth", "结束バンド - ギターと孤独と蒼い惑星");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_FIRST, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_first", "结束バンド - 青春コンプレックス");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_FOURTEENTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_fourteenth", "结束バンド - 転がる岩、君に朝が降る");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_FOURTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_fourth", "结束バンド - ひみつ基地");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_NINTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_ninth", "结束バンド - 小さな海");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_SECOND, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_second", "结束バンド - ひとりぼっち東京");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_SEVENTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_seventh", "结束バンド - あのバンド");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_SIXTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_sixth", "结束バンド - ラブソングが歌えない");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_TENTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_tenth", "结束バンド - なにが悪い");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_THIRD, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_third", "结束バンド - Distortion!!");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_THIRTEENTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_thirteenth", "结束バンド - フラッシュバッカー");
+        translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOND_TWELFTH, "结束バンド");
+        translationBuilder.add("jukebox_song.adisc.adisc_bond_twelfth", "结束バンド - 星座になれたら");
+
     }
 }
