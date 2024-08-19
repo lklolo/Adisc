@@ -50,6 +50,61 @@ public class ModSoundEvents {
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOND_THIRTEENTH = registerReference("adisc_music_disc.bond_thirteenth");
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOND_TWELFTH = registerReference("adisc_music_disc.bond_twelfth");
 
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_1 = registerReference("adisc_music_disc.togetoge_1");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_10 = registerReference("adisc_music_disc.togetoge_10");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_11 = registerReference("adisc_music_disc.togetoge_11");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_12 = registerReference("adisc_music_disc.togetoge_12");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_13 = registerReference("adisc_music_disc.togetoge_13");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_14 = registerReference("adisc_music_disc.togetoge_14");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_15 = registerReference("adisc_music_disc.togetoge_15");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_16 = registerReference("adisc_music_disc.togetoge_16");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_17 = registerReference("adisc_music_disc.togetoge_17");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_18 = registerReference("adisc_music_disc.togetoge_18");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_19 = registerReference("adisc_music_disc.togetoge_19");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_2 = registerReference("adisc_music_disc.togetoge_2");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_20 = registerReference("adisc_music_disc.togetoge_20");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_21 = registerReference("adisc_music_disc.togetoge_21");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_3 = registerReference("adisc_music_disc.togetoge_3");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_4 = registerReference("adisc_music_disc.togetoge_4");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_5 = registerReference("adisc_music_disc.togetoge_5");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_6 = registerReference("adisc_music_disc.togetoge_6");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_7 = registerReference("adisc_music_disc.togetoge_7");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_8 = registerReference("adisc_music_disc.togetoge_8");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TOGETOGE_9 = registerReference("adisc_music_disc.togetoge_9");
+
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_1 = registerReference("adisc_music_disc.comewithme_1");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_10 = registerReference("adisc_music_disc.comewithme_10");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_11 = registerReference("adisc_music_disc.comewithme_11");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_12 = registerReference("adisc_music_disc.comewithme_12");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_13 = registerReference("adisc_music_disc.comewithme_13");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_14 = registerReference("adisc_music_disc.comewithme_14");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_15 = registerReference("adisc_music_disc.comewithme_15");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_16 = registerReference("adisc_music_disc.comewithme_16");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_17 = registerReference("adisc_music_disc.comewithme_17");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_18 = registerReference("adisc_music_disc.comewithme_18");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_19 = registerReference("adisc_music_disc.comewithme_19");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_2 = registerReference("adisc_music_disc.comewithme_2");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_20 = registerReference("adisc_music_disc.comewithme_20");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_21 = registerReference("adisc_music_disc.comewithme_21");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_22 = registerReference("adisc_music_disc.comewithme_22");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_23 = registerReference("adisc_music_disc.comewithme_23");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_24 = registerReference("adisc_music_disc.comewithme_24");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_25 = registerReference("adisc_music_disc.comewithme_25");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_26 = registerReference("adisc_music_disc.comewithme_26");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_27 = registerReference("adisc_music_disc.comewithme_27");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_28 = registerReference("adisc_music_disc.comewithme_28");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_29 = registerReference("adisc_music_disc.comewithme_29");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_3 = registerReference("adisc_music_disc.comewithme_3");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_30 = registerReference("adisc_music_disc.comewithme_30");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_4 = registerReference("adisc_music_disc.comewithme_4");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_5 = registerReference("adisc_music_disc.comewithme_5");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_6 = registerReference("adisc_music_disc.comewithme_6");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_7 = registerReference("adisc_music_disc.comewithme_7");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_8 = registerReference("adisc_music_disc.comewithme_8");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_9 = registerReference("adisc_music_disc.comewithme_9");
+
+
+
 
     private static RegistryEntry.Reference<SoundEvent> registerReference(String name) {
         Identifier id = Identifier.of(ADisc.MOD_ID, name);

@@ -155,5 +155,158 @@
   },
   "adisc_music_disc.bond_twelfth" : {
     "sounds" : [ "adisc:bond_twelfth" ]
+  },
+  "adisc_music_disc.togetoge_1" : {
+    "sounds" : [ "adisc:togetoge_1" ]
+  },
+  "adisc_music_disc.togetoge_10" : {
+    "sounds" : [ "adisc:togetoge_10" ]
+  },
+  "adisc_music_disc.togetoge_11" : {
+    "sounds" : [ "adisc:togetoge_11" ]
+  },
+  "adisc_music_disc.togetoge_12" : {
+    "sounds" : [ "adisc:togetoge_12" ]
+  },
+  "adisc_music_disc.togetoge_13" : {
+    "sounds" : [ "adisc:togetoge_13" ]
+  },
+  "adisc_music_disc.togetoge_14" : {
+    "sounds" : [ "adisc:togetoge_14" ]
+  },
+  "adisc_music_disc.togetoge_15" : {
+    "sounds" : [ "adisc:togetoge_15" ]
+  },
+  "adisc_music_disc.togetoge_16" : {
+    "sounds" : [ "adisc:togetoge_16" ]
+  },
+  "adisc_music_disc.togetoge_17" : {
+    "sounds" : [ "adisc:togetoge_17" ]
+  },
+  "adisc_music_disc.togetoge_18" : {
+    "sounds" : [ "adisc:togetoge_18" ]
+  },
+  "adisc_music_disc.togetoge_19" : {
+    "sounds" : [ "adisc:togetoge_19" ]
+  },
+  "adisc_music_disc.togetoge_2" : {
+    "sounds" : [ "adisc:togetoge_2" ]
+  },
+  "adisc_music_disc.togetoge_20" : {
+    "sounds" : [ "adisc:togetoge_20" ]
+  },
+  "adisc_music_disc.togetoge_21" : {
+    "sounds" : [ "adisc:togetoge_21" ]
+  },
+  "adisc_music_disc.togetoge_3" : {
+    "sounds" : [ "adisc:togetoge_3" ]
+  },
+  "adisc_music_disc.togetoge_4" : {
+    "sounds" : [ "adisc:togetoge_4" ]
+  },
+  "adisc_music_disc.togetoge_5" : {
+    "sounds" : [ "adisc:togetoge_5" ]
+  },
+  "adisc_music_disc.togetoge_6" : {
+    "sounds" : [ "adisc:togetoge_6" ]
+  },
+  "adisc_music_disc.togetoge_7" : {
+    "sounds" : [ "adisc:togetoge_7" ]
+  },
+  "adisc_music_disc.togetoge_8" : {
+    "sounds" : [ "adisc:togetoge_8" ]
+  },
+  "adisc_music_disc.togetoge_9" : {
+    "sounds" : [ "adisc:togetoge_9" ]
+  },
+  "adisc_music_disc.comewithme_1" : {
+    "sounds" : [ "adisc:comewithme_1" ]
+  },
+  "adisc_music_disc.comewithme_10" : {
+    "sounds" : [ "adisc:comewithme_10" ]
+  },
+  "adisc_music_disc.comewithme_11" : {
+    "sounds" : [ "adisc:comewithme_11" ]
+  },
+  "adisc_music_disc.comewithme_12" : {
+    "sounds" : [ "adisc:comewithme_12" ]
+  },
+  "adisc_music_disc.comewithme_13" : {
+    "sounds" : [ "adisc:comewithme_13" ]
+  },
+  "adisc_music_disc.comewithme_14" : {
+    "sounds" : [ "adisc:comewithme_14" ]
+  },
+  "adisc_music_disc.comewithme_15" : {
+    "sounds" : [ "adisc:comewithme_15" ]
+  },
+  "adisc_music_disc.comewithme_16" : {
+    "sounds" : [ "adisc:comewithme_16" ]
+  },
+  "adisc_music_disc.comewithme_17" : {
+    "sounds" : [ "adisc:comewithme_17" ]
+  },
+  "adisc_music_disc.comewithme_18" : {
+    "sounds" : [ "adisc:comewithme_18" ]
+  },
+  "adisc_music_disc.comewithme_19" : {
+    "sounds" : [ "adisc:comewithme_19" ]
+  },
+  "adisc_music_disc.comewithme_2" : {
+    "sounds" : [ "adisc:comewithme_2" ]
+  },
+  "adisc_music_disc.comewithme_20" : {
+    "sounds" : [ "adisc:comewithme_20" ]
+  },
+  "adisc_music_disc.comewithme_21" : {
+    "sounds" : [ "adisc:comewithme_21" ]
+  },
+  "adisc_music_disc.comewithme_22" : {
+    "sounds" : [ "adisc:comewithme_22" ]
+  },
+  "adisc_music_disc.comewithme_23" : {
+    "sounds" : [ "adisc:comewithme_23" ]
+  },
+  "adisc_music_disc.comewithme_24" : {
+    "sounds" : [ "adisc:comewithme_24" ]
+  },
+  "adisc_music_disc.comewithme_25" : {
+    "sounds" : [ "adisc:comewithme_25" ]
+  },
+  "adisc_music_disc.comewithme_26" : {
+    "sounds" : [ "adisc:comewithme_26" ]
+  },
+  "adisc_music_disc.comewithme_27" : {
+    "sounds" : [ "adisc:comewithme_27" ]
+  },
+  "adisc_music_disc.comewithme_28" : {
+    "sounds" : [ "adisc:comewithme_28" ]
+  },
+  "adisc_music_disc.comewithme_29" : {
+    "sounds" : [ "adisc:comewithme_29" ]
+  },
+  "adisc_music_disc.comewithme_3" : {
+    "sounds" : [ "adisc:comewithme_3" ]
+  },
+  "adisc_music_disc.comewithme_30" : {
+    "sounds" : [ "adisc:comewithme_30" ]
+  },
+  "adisc_music_disc.comewithme_4" : {
+    "sounds" : [ "adisc:comewithme_4" ]
+  },
+  "adisc_music_disc.comewithme_5" : {
+    "sounds" : [ "adisc:comewithme_5" ]
+  },
+  "adisc_music_disc.comewithme_6" : {
+    "sounds" : [ "adisc:comewithme_6" ]
+  },
+  "adisc_music_disc.comewithme_7" : {
+    "sounds" : [ "adisc:comewithme_7" ]
+  },
+  "adisc_music_disc.comewithme_8" : {
+    "sounds" : [ "adisc:comewithme_8" ]
+  },
+  "adisc_music_disc.comewithme_9" : {
+    "sounds" : [ "adisc:comewithme_9" ]
   }
 }

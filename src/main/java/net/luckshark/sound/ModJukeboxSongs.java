@@ -54,6 +54,61 @@ public interface ModJukeboxSongs {
     RegistryKey<JukeboxSong> ADISC_BOND_THIRTEENTH = of("adisc_bond_thirteenth");
     RegistryKey<JukeboxSong> ADISC_BOND_TWELFTH = of("adisc_bond_twelfth");
 
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_1 = of("adisc_togetoge_1");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_10 = of("adisc_togetoge_10");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_11 = of("adisc_togetoge_11");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_12 = of("adisc_togetoge_12");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_13 = of("adisc_togetoge_13");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_14 = of("adisc_togetoge_14");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_15 = of("adisc_togetoge_15");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_16 = of("adisc_togetoge_16");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_17 = of("adisc_togetoge_17");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_18 = of("adisc_togetoge_18");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_19 = of("adisc_togetoge_19");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_2 = of("adisc_togetoge_2");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_20 = of("adisc_togetoge_20");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_21 = of("adisc_togetoge_21");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_3 = of("adisc_togetoge_3");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_4 = of("adisc_togetoge_4");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_5 = of("adisc_togetoge_5");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_6 = of("adisc_togetoge_6");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_7 = of("adisc_togetoge_7");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_8 = of("adisc_togetoge_8");
+    RegistryKey<JukeboxSong> ADISC_TOGETOGE_9 = of("adisc_togetoge_9");
+
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_1 = of("adisc_comewithme_1");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_10 = of("adisc_comewithme_10");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_11 = of("adisc_comewithme_11");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_12 = of("adisc_comewithme_12");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_13 = of("adisc_comewithme_13");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_14 = of("adisc_comewithme_14");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_15 = of("adisc_comewithme_15");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_16 = of("adisc_comewithme_16");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_17 = of("adisc_comewithme_17");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_18 = of("adisc_comewithme_18");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_19 = of("adisc_comewithme_19");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_2 = of("adisc_comewithme_2");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_20 = of("adisc_comewithme_20");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_21 = of("adisc_comewithme_21");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_22 = of("adisc_comewithme_22");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_23 = of("adisc_comewithme_23");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_24 = of("adisc_comewithme_24");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_25 = of("adisc_comewithme_25");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_26 = of("adisc_comewithme_26");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_27 = of("adisc_comewithme_27");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_28 = of("adisc_comewithme_28");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_29 = of("adisc_comewithme_29");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_3 = of("adisc_comewithme_3");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_30 = of("adisc_comewithme_30");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_4 = of("adisc_comewithme_4");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_5 = of("adisc_comewithme_5");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_6 = of("adisc_comewithme_6");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_7 = of("adisc_comewithme_7");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_8 = of("adisc_comewithme_8");
+    RegistryKey<JukeboxSong> ADISC_COMEWITHME_9 = of("adisc_comewithme_9");
+
+
+
     private static RegistryKey<JukeboxSong> of(String id) {
         return RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(ADisc.MOD_ID, id));
     }
@@ -106,6 +161,61 @@ public interface ModJukeboxSongs {
         register(registry, ADISC_BOND_THIRD, ModSoundEvents.ADISC_MUSIC_DISC_BOND_THIRD, 203, 15);
         register(registry, ADISC_BOND_THIRTEENTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_THIRTEENTH, 275, 15);
         register(registry, ADISC_BOND_TWELFTH, ModSoundEvents.ADISC_MUSIC_DISC_BOND_TWELFTH, 258, 15);
+
+        register(registry, ADISC_TOGETOGE_1, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_1, 198, 15);
+        register(registry, ADISC_TOGETOGE_10, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_10, 228, 15);
+        register(registry, ADISC_TOGETOGE_11, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_11, 188, 15);
+        register(registry, ADISC_TOGETOGE_12, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_12, 185, 15);
+        register(registry, ADISC_TOGETOGE_13, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_13, 196, 15);
+        register(registry, ADISC_TOGETOGE_14, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_14, 180, 15);
+        register(registry, ADISC_TOGETOGE_15, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_15, 188, 15);
+        register(registry, ADISC_TOGETOGE_16, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_16, 189, 15);
+        register(registry, ADISC_TOGETOGE_17, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_17, 189, 15);
+        register(registry, ADISC_TOGETOGE_18, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_18, 178, 15);
+        register(registry, ADISC_TOGETOGE_19, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_19, 195, 15);
+        register(registry, ADISC_TOGETOGE_2, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_2, 204, 15);
+        register(registry, ADISC_TOGETOGE_20, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_20, 195, 15);
+        register(registry, ADISC_TOGETOGE_21, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_21, 184, 15);
+        register(registry, ADISC_TOGETOGE_3, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_3, 155, 15);
+        register(registry, ADISC_TOGETOGE_4, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_4, 221, 15);
+        register(registry, ADISC_TOGETOGE_5, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_5, 162, 15);
+        register(registry, ADISC_TOGETOGE_6, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_6, 155, 15);
+        register(registry, ADISC_TOGETOGE_7, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_7, 184, 15);
+        register(registry, ADISC_TOGETOGE_8, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_8, 190, 15);
+        register(registry, ADISC_TOGETOGE_9, ModSoundEvents.ADISC_MUSIC_DISC_TOGETOGE_9, 189, 15);
+
+        register(registry, ADISC_COMEWITHME_1, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_1, 279, 15);
+        register(registry, ADISC_COMEWITHME_10, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_10, 91, 15);
+        register(registry, ADISC_COMEWITHME_11, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_11, 91, 15);
+        register(registry, ADISC_COMEWITHME_12, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_12, 91, 15);
+        register(registry, ADISC_COMEWITHME_13, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_13, 91, 15);
+        register(registry, ADISC_COMEWITHME_14, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_14, 91, 15);
+        register(registry, ADISC_COMEWITHME_15, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_15, 105, 15);
+        register(registry, ADISC_COMEWITHME_16, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_16, 104, 15);
+        register(registry, ADISC_COMEWITHME_17, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_17, 216, 15);
+        register(registry, ADISC_COMEWITHME_18, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_18, 252, 15);
+        register(registry, ADISC_COMEWITHME_19, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_19, 209, 15);
+        register(registry, ADISC_COMEWITHME_2, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_2, 238, 15);
+        register(registry, ADISC_COMEWITHME_20, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_20, 246, 15);
+        register(registry, ADISC_COMEWITHME_21, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_21, 273, 15);
+        register(registry, ADISC_COMEWITHME_22, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_22, 202, 15);
+        register(registry, ADISC_COMEWITHME_23, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_23, 239, 15);
+        register(registry, ADISC_COMEWITHME_24, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_24, 283, 15);
+        register(registry, ADISC_COMEWITHME_25, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_25, 271, 15);
+        register(registry, ADISC_COMEWITHME_26, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_26, 192, 15);
+        register(registry, ADISC_COMEWITHME_27, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_27, 126, 15);
+        register(registry, ADISC_COMEWITHME_28, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_28, 238, 15);
+        register(registry, ADISC_COMEWITHME_29, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_29, 264, 15);
+        register(registry, ADISC_COMEWITHME_3, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_3, 192, 15);
+        register(registry, ADISC_COMEWITHME_30, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_30, 267, 15);
+        register(registry, ADISC_COMEWITHME_4, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_4, 274, 15);
+        register(registry, ADISC_COMEWITHME_5, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_5, 214, 15);
+        register(registry, ADISC_COMEWITHME_6, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_6, 248, 15);
+        register(registry, ADISC_COMEWITHME_7, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_7, 232, 15);
+        register(registry, ADISC_COMEWITHME_8, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_8, 252, 15);
+        register(registry, ADISC_COMEWITHME_9, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_9, 90, 15);
+
+
 
     }
 }

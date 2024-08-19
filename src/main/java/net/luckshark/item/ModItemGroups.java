@@ -64,6 +64,59 @@ public class ModItemGroups {
                             entries.add(ModItems.ADISC_MUSIC_DISC_BOND_THIRTEENTH);
                             entries.add(ModItems.ADISC_MUSIC_DISC_BOND_TWELFTH);
 
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_1);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_10);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_11);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_12);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_13);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_14);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_15);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_16);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_17);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_18);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_19);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_2);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_20);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_21);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_3);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_4);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_5);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_6);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_7);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_8);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_TOGETOGE_9);
+
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_1);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_10);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_11);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_12);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_13);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_14);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_15);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_16);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_17);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_18);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_19);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_2);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_20);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_21);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_22);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_23);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_24);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_25);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_26);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_27);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_28);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_29);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_3);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_30);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_4);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_5);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_6);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_7);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_8);
+                            entries.add(ModItems.ADISC_MUSIC_DISC_COMEWITHME_9);
+
                         })
                         .build()
         );
