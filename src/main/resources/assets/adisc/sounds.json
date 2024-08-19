@@ -1,0 +1,117 @@
+{
+  "adisc_music_disc.test": {
+    "sounds": [
+      "adisc:test"
+    ]
+  },
+  "adisc_music_disc.mayoiuta": {
+    "sounds": [
+      "adisc:mayoiuta"
+    ]
+  },
+  "adisc_music_disc.namonaki": {
+    "sounds": [
+      "adisc:namonaki"
+    ]
+  },
+  "adisc_music_disc.senzaihyoumei": {
+    "sounds": [
+      "adisc:senzaihyoumei"
+    ]
+  },
+  "adisc_music_disc.silhouettedance": {
+    "sounds": [
+      "adisc:silhouettedance"
+    ]
+  },
+  "adisc_music_disc.hekitenbansou": {
+    "sounds": [
+      "adisc:hekitenbansou"
+    ]
+  },
+  "adisc_music_disc.kokyuu": {
+    "sounds": [
+      "adisc:kokyuu"
+    ]
+  },
+  "adisc_music_disc.panorama": {
+    "sounds": [
+      "adisc:panorama"
+    ]
+  },
+  "adisc_music_disc.tanebi": {
+    "sounds": [
+      "adisc:tanebi"
+    ]
+  },
+  "adisc_music_disc.singandplaytogether": {
+    "sounds": [
+      "adisc:singandplaytogether"
+    ]
+  },
+  "adisc_music_disc.kaisou": {
+    "sounds": [
+      "adisc:kaisou"
+    ]
+  },
+  "adisc_music_disc.shiori": {
+    "sounds": [
+      "adisc:shiori"
+    ]
+  },
+  "adisc_music_disc.refrain": {
+    "sounds": [
+      "adisc:refrain"
+    ]
+  },
+  "adisc_music_disc.melody": {
+    "sounds": [
+      "adisc:melody"
+    ]
+  },
+  "adisc_music_disc.sasurai": {
+    "sounds": [
+      "adisc:sasurai"
+    ]
+  },
+  "adisc_music_disc.utakotoba": {
+    "sounds": [
+      "adisc:utakotoba"
+    ]
+  },
+  "adisc_music_disc.noroshi": {
+    "sounds": [
+      "adisc:noroshi"
+    ]
+  },
+  "adisc_music_disc.otoichie": {
+    "sounds": [
+      "adisc:otoichie"
+    ]
+  },
+  "adisc_music_disc.crychicharuhikage": {
+    "sounds": [
+      "adisc:crychicharuhikage"
+    ]
+  },
+  "adisc_music_disc.wanttobehuman": {
+    "sounds": [
+      "adisc:wanttobehuman"
+    ]
+  },
+  "adisc_music_disc.angles": {
+    "sounds": [
+      "adisc:angles"
+    ]
+  },
+  "adisc_music_disc.blackbirth": {
+    "sounds": [
+      "adisc:blackbirth"
+    ]
+  },
+  "adisc_music_disc.welcometoavemujica": {
+    "sounds": [
+      "adisc:welcometoavemujica"
+    ]
+  }
+}

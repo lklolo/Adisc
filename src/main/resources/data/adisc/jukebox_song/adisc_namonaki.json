@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "jukebox_song.adisc.adisc_namonaki"
+  },
+  "length_in_seconds": 268.0,
+  "sound_event": "adisc:adisc_music_disc.namonaki"
+}

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "adisc",
+	"version": "${version}",
+	"name": "ADisc",
+	"description": "Add more ACG disc for Minecraft",
+	"authors": [
+		"LKLOLO"
+	],
+	"contact": {
+		"homepage": "https://github.com/lklolo/adisc-Fabric-1.21.1",
+		"sources": "https://github.com/lklolo/adisc-Fabric-1.21.1"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/adisc/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.luckshark.ADisc"
+		],
+		"fabric-datagen": [
+			"net.luckshark.ADiscDataGenerator"
+		]
+	},
+	"mixins": [
+		"adisc.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

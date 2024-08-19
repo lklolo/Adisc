@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "adisc:item/adisc_music_disc_test"
+  }
+}
