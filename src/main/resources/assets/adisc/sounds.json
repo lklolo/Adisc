@@ -4,6 +4,11 @@
       "adisc:test"
     ]
   },
+  "adisc_music_disc.haruhikage": {
+    "sounds": [
+      "adisc:haruhikage"
+    ]
+  },
   "adisc_music_disc.mayoiuta": {
     "sounds": [
       "adisc:mayoiuta"
@@ -308,5 +313,128 @@
   },
   "adisc_music_disc.comewithme_9" : {
     "sounds" : [ "adisc:comewithme_9" ]
+  },
+  "adisc_music_disc.thank17_1" : {
+    "sounds" : [ "adisc:thank17_1" ]
+  },
+  "adisc_music_disc.thank17_10" : {
+    "sounds" : [ "adisc:thank17_10" ]
+  },
+  "adisc_music_disc.thank17_11" : {
+    "sounds" : [ "adisc:thank17_11" ]
+  },
+  "adisc_music_disc.thank17_12" : {
+    "sounds" : [ "adisc:thank17_12" ]
+  },
+  "adisc_music_disc.thank17_13" : {
+    "sounds" : [ "adisc:thank17_13" ]
+  },
+  "adisc_music_disc.thank17_14" : {
+    "sounds" : [ "adisc:thank17_14" ]
+  },
+  "adisc_music_disc.thank17_2" : {
+    "sounds" : [ "adisc:thank17_2" ]
+  },
+  "adisc_music_disc.thank17_3" : {
+    "sounds" : [ "adisc:thank17_3" ]
+  },
+  "adisc_music_disc.thank17_4" : {
+    "sounds" : [ "adisc:thank17_4" ]
+  },
+  "adisc_music_disc.thank17_5" : {
+    "sounds" : [ "adisc:thank17_5" ]
+  },
+  "adisc_music_disc.thank17_6" : {
+    "sounds" : [ "adisc:thank17_6" ]
+  },
+  "adisc_music_disc.thank17_7" : {
+    "sounds" : [ "adisc:thank17_7" ]
+  },
+  "adisc_music_disc.thank17_8" : {
+    "sounds" : [ "adisc:thank17_8" ]
+  },
+  "adisc_music_disc.thank17_9" : {
+    "sounds" : [ "adisc:thank17_9" ]
+  },
+  "adisc_music_disc.book1_1" : {
+    "sounds" : [ "adisc:book1_1" ]
+  },
+  "adisc_music_disc.book1_2" : {
+    "sounds" : [ "adisc:book1_2" ]
+  },
+  "adisc_music_disc.book1_3" : {
+    "sounds" : [ "adisc:book1_3" ]
+  },
+  "adisc_music_disc.book1_4" : {
+    "sounds" : [ "adisc:book1_4" ]
+  },
+  "adisc_music_disc.book1_5" : {
+    "sounds" : [ "adisc:book1_5" ]
+  },
+  "adisc_music_disc.book1_6" : {
+    "sounds" : [ "adisc:book1_6" ]
+  },
+  "adisc_music_disc.book1_7" : {
+    "sounds" : [ "adisc:book1_7" ]
+  },
+  "adisc_music_disc.book1_8" : {
+    "sounds" : [ "adisc:book1_8" ]
+  },
+  "adisc_music_disc.book1_9" : {
+    "sounds" : [ "adisc:book1_9" ]
+  },
+  "adisc_music_disc.book2_1" : {
+    "sounds" : [ "adisc:book2_1" ]
+  },
+  "adisc_music_disc.book2_2" : {
+    "sounds" : [ "adisc:book2_2" ]
+  },
+  "adisc_music_disc.book2_3" : {
+    "sounds" : [ "adisc:book2_3" ]
+  },
+  "adisc_music_disc.book2_4" : {
+    "sounds" : [ "adisc:book2_4" ]
+  },
+  "adisc_music_disc.book2_5" : {
+    "sounds" : [ "adisc:book2_5" ]
+  },
+  "adisc_music_disc.book2_6" : {
+    "sounds" : [ "adisc:book2_6" ]
+  },
+  "adisc_music_disc.book2_7" : {
+    "sounds" : [ "adisc:book2_7" ]
+  },
+  "adisc_music_disc.book2_8" : {
+    "sounds" : [ "adisc:book2_8" ]
+  },
+  "adisc_music_disc.book3_1" : {
+    "sounds" : [ "adisc:book3_1" ]
+  },
+  "adisc_music_disc.book3_10" : {
+    "sounds" : [ "adisc:book3_10" ]
+  },
+  "adisc_music_disc.book3_2" : {
+    "sounds" : [ "adisc:book3_2" ]
+  },
+  "adisc_music_disc.book3_3" : {
+    "sounds" : [ "adisc:book3_3" ]
+  },
+  "adisc_music_disc.book3_4" : {
+    "sounds" : [ "adisc:book3_4" ]
+  },
+  "adisc_music_disc.book3_5" : {
+    "sounds" : [ "adisc:book3_5" ]
+  },
+  "adisc_music_disc.book3_6" : {
+    "sounds" : [ "adisc:book3_6" ]
+  },
+  "adisc_music_disc.book3_7" : {
+    "sounds" : [ "adisc:book3_7" ]
+  },
+  "adisc_music_disc.book3_8" : {
+    "sounds" : [ "adisc:book3_8" ]
+  },
+  "adisc_music_disc.book3_9" : {
+    "sounds" : [ "adisc:book3_9" ]
   }
 }

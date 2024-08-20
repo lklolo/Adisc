@@ -103,7 +103,48 @@ public class ModSoundEvents {
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_8 = registerReference("adisc_music_disc.comewithme_8");
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_COMEWITHME_9 = registerReference("adisc_music_disc.comewithme_9");
 
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_1 = registerReference("adisc_music_disc.thank17_1");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_10 = registerReference("adisc_music_disc.thank17_10");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_11 = registerReference("adisc_music_disc.thank17_11");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_12 = registerReference("adisc_music_disc.thank17_12");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_13 = registerReference("adisc_music_disc.thank17_13");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_14 = registerReference("adisc_music_disc.thank17_14");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_2 = registerReference("adisc_music_disc.thank17_2");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_3 = registerReference("adisc_music_disc.thank17_3");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_4 = registerReference("adisc_music_disc.thank17_4");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_5 = registerReference("adisc_music_disc.thank17_5");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_6 = registerReference("adisc_music_disc.thank17_6");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_7 = registerReference("adisc_music_disc.thank17_7");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_8 = registerReference("adisc_music_disc.thank17_8");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_THANK17_9 = registerReference("adisc_music_disc.thank17_9");
 
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_1 = registerReference("adisc_music_disc.book1_1");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_2 = registerReference("adisc_music_disc.book1_2");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_3 = registerReference("adisc_music_disc.book1_3");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_4 = registerReference("adisc_music_disc.book1_4");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_5 = registerReference("adisc_music_disc.book1_5");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_6 = registerReference("adisc_music_disc.book1_6");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_7 = registerReference("adisc_music_disc.book1_7");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_8 = registerReference("adisc_music_disc.book1_8");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK1_9 = registerReference("adisc_music_disc.book1_9");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK2_1 = registerReference("adisc_music_disc.book2_1");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK2_2 = registerReference("adisc_music_disc.book2_2");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK2_3 = registerReference("adisc_music_disc.book2_3");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK2_4 = registerReference("adisc_music_disc.book2_4");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK2_5 = registerReference("adisc_music_disc.book2_5");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK2_6 = registerReference("adisc_music_disc.book2_6");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK2_7 = registerReference("adisc_music_disc.book2_7");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK2_8 = registerReference("adisc_music_disc.book2_8");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_1 = registerReference("adisc_music_disc.book3_1");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_10 = registerReference("adisc_music_disc.book3_10");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_2 = registerReference("adisc_music_disc.book3_2");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_3 = registerReference("adisc_music_disc.book3_3");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_4 = registerReference("adisc_music_disc.book3_4");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_5 = registerReference("adisc_music_disc.book3_5");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_6 = registerReference("adisc_music_disc.book3_6");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_7 = registerReference("adisc_music_disc.book3_7");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_8 = registerReference("adisc_music_disc.book3_8");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_9 = registerReference("adisc_music_disc.book3_9");
 
 
     private static RegistryEntry.Reference<SoundEvent> registerReference(String name) {

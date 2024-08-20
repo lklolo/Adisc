@@ -106,7 +106,48 @@ public class ModItems {
     public static final Item ADISC_MUSIC_DISC_COMEWITHME_8 = registerItems("adisc_music_disc_comewithme_8", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_COMEWITHME_8)));
     public static final Item ADISC_MUSIC_DISC_COMEWITHME_9 = registerItems("adisc_music_disc_comewithme_9", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_COMEWITHME_9)));
 
+    public static final Item ADISC_MUSIC_DISC_THANK17_1 = registerItems("adisc_music_disc_thank17_1", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_1)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_10 = registerItems("adisc_music_disc_thank17_10", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_10)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_11 = registerItems("adisc_music_disc_thank17_11", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_11)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_12 = registerItems("adisc_music_disc_thank17_12", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_12)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_13 = registerItems("adisc_music_disc_thank17_13", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_13)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_14 = registerItems("adisc_music_disc_thank17_14", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_14)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_2 = registerItems("adisc_music_disc_thank17_2", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_2)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_3 = registerItems("adisc_music_disc_thank17_3", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_3)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_4 = registerItems("adisc_music_disc_thank17_4", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_4)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_5 = registerItems("adisc_music_disc_thank17_5", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_5)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_6 = registerItems("adisc_music_disc_thank17_6", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_6)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_7 = registerItems("adisc_music_disc_thank17_7", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_7)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_8 = registerItems("adisc_music_disc_thank17_8", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_8)));
+    public static final Item ADISC_MUSIC_DISC_THANK17_9 = registerItems("adisc_music_disc_thank17_9", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_THANK17_9)));
 
+    public static final Item ADISC_MUSIC_DISC_BOOK1_1 = registerItems("adisc_music_disc_book1_1", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_1)));
+    public static final Item ADISC_MUSIC_DISC_BOOK1_2 = registerItems("adisc_music_disc_book1_2", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_2)));
+    public static final Item ADISC_MUSIC_DISC_BOOK1_3 = registerItems("adisc_music_disc_book1_3", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_3)));
+    public static final Item ADISC_MUSIC_DISC_BOOK1_4 = registerItems("adisc_music_disc_book1_4", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_4)));
+    public static final Item ADISC_MUSIC_DISC_BOOK1_5 = registerItems("adisc_music_disc_book1_5", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_5)));
+    public static final Item ADISC_MUSIC_DISC_BOOK1_6 = registerItems("adisc_music_disc_book1_6", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_6)));
+    public static final Item ADISC_MUSIC_DISC_BOOK1_7 = registerItems("adisc_music_disc_book1_7", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_7)));
+    public static final Item ADISC_MUSIC_DISC_BOOK1_8 = registerItems("adisc_music_disc_book1_8", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_8)));
+    public static final Item ADISC_MUSIC_DISC_BOOK1_9 = registerItems("adisc_music_disc_book1_9", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK1_9)));
+    public static final Item ADISC_MUSIC_DISC_BOOK2_1 = registerItems("adisc_music_disc_book2_1", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK2_1)));
+    public static final Item ADISC_MUSIC_DISC_BOOK2_2 = registerItems("adisc_music_disc_book2_2", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK2_2)));
+    public static final Item ADISC_MUSIC_DISC_BOOK2_3 = registerItems("adisc_music_disc_book2_3", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK2_3)));
+    public static final Item ADISC_MUSIC_DISC_BOOK2_4 = registerItems("adisc_music_disc_book2_4", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK2_4)));
+    public static final Item ADISC_MUSIC_DISC_BOOK2_5 = registerItems("adisc_music_disc_book2_5", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK2_5)));
+    public static final Item ADISC_MUSIC_DISC_BOOK2_6 = registerItems("adisc_music_disc_book2_6", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK2_6)));
+    public static final Item ADISC_MUSIC_DISC_BOOK2_7 = registerItems("adisc_music_disc_book2_7", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK2_7)));
+    public static final Item ADISC_MUSIC_DISC_BOOK2_8 = registerItems("adisc_music_disc_book2_8", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK2_8)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_1 = registerItems("adisc_music_disc_book3_1", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_1)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_10 = registerItems("adisc_music_disc_book3_10", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_10)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_2 = registerItems("adisc_music_disc_book3_2", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_2)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_3 = registerItems("adisc_music_disc_book3_3", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_3)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_4 = registerItems("adisc_music_disc_book3_4", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_4)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_5 = registerItems("adisc_music_disc_book3_5", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_5)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_6 = registerItems("adisc_music_disc_book3_6", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_6)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_7 = registerItems("adisc_music_disc_book3_7", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_7)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_8 = registerItems("adisc_music_disc_book3_8", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_8)));
+    public static final Item ADISC_MUSIC_DISC_BOOK3_9 = registerItems("adisc_music_disc_book3_9", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_BOOK3_9)));
 
     public static Item registerItems(String id, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(ADisc.MOD_ID, id), item);
@@ -205,6 +246,49 @@ public class ModItems {
         fabricItemGroupEntries.add(ADISC_MUSIC_DISC_COMEWITHME_7);
         fabricItemGroupEntries.add(ADISC_MUSIC_DISC_COMEWITHME_8);
         fabricItemGroupEntries.add(ADISC_MUSIC_DISC_COMEWITHME_9);
+
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_1);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_10);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_11);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_12);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_13);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_14);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_2);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_3);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_4);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_5);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_6);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_7);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_8);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_THANK17_9);
+
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_1);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_2);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_3);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_4);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_5);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_6);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_7);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_8);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK1_9);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK2_1);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK2_2);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK2_3);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK2_4);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK2_5);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK2_6);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK2_7);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK2_8);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_1);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_10);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_2);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_3);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_4);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_5);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_6);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_7);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_8);
+        fabricItemGroupEntries.add(ADISC_MUSIC_DISC_BOOK3_9);
 
 
     }

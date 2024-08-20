@@ -107,6 +107,48 @@ public interface ModJukeboxSongs {
     RegistryKey<JukeboxSong> ADISC_COMEWITHME_8 = of("adisc_comewithme_8");
     RegistryKey<JukeboxSong> ADISC_COMEWITHME_9 = of("adisc_comewithme_9");
 
+    RegistryKey<JukeboxSong> ADISC_THANK17_1 = of("adisc_thank17_1");
+    RegistryKey<JukeboxSong> ADISC_THANK17_10 = of("adisc_thank17_10");
+    RegistryKey<JukeboxSong> ADISC_THANK17_11 = of("adisc_thank17_11");
+    RegistryKey<JukeboxSong> ADISC_THANK17_12 = of("adisc_thank17_12");
+    RegistryKey<JukeboxSong> ADISC_THANK17_13 = of("adisc_thank17_13");
+    RegistryKey<JukeboxSong> ADISC_THANK17_14 = of("adisc_thank17_14");
+    RegistryKey<JukeboxSong> ADISC_THANK17_2 = of("adisc_thank17_2");
+    RegistryKey<JukeboxSong> ADISC_THANK17_3 = of("adisc_thank17_3");
+    RegistryKey<JukeboxSong> ADISC_THANK17_4 = of("adisc_thank17_4");
+    RegistryKey<JukeboxSong> ADISC_THANK17_5 = of("adisc_thank17_5");
+    RegistryKey<JukeboxSong> ADISC_THANK17_6 = of("adisc_thank17_6");
+    RegistryKey<JukeboxSong> ADISC_THANK17_7 = of("adisc_thank17_7");
+    RegistryKey<JukeboxSong> ADISC_THANK17_8 = of("adisc_thank17_8");
+    RegistryKey<JukeboxSong> ADISC_THANK17_9 = of("adisc_thank17_9");
+
+    RegistryKey<JukeboxSong> ADISC_BOOK1_1 = of("adisc_book1_1");
+    RegistryKey<JukeboxSong> ADISC_BOOK1_2 = of("adisc_book1_2");
+    RegistryKey<JukeboxSong> ADISC_BOOK1_3 = of("adisc_book1_3");
+    RegistryKey<JukeboxSong> ADISC_BOOK1_4 = of("adisc_book1_4");
+    RegistryKey<JukeboxSong> ADISC_BOOK1_5 = of("adisc_book1_5");
+    RegistryKey<JukeboxSong> ADISC_BOOK1_6 = of("adisc_book1_6");
+    RegistryKey<JukeboxSong> ADISC_BOOK1_7 = of("adisc_book1_7");
+    RegistryKey<JukeboxSong> ADISC_BOOK1_8 = of("adisc_book1_8");
+    RegistryKey<JukeboxSong> ADISC_BOOK1_9 = of("adisc_book1_9");
+    RegistryKey<JukeboxSong> ADISC_BOOK2_1 = of("adisc_book2_1");
+    RegistryKey<JukeboxSong> ADISC_BOOK2_2 = of("adisc_book2_2");
+    RegistryKey<JukeboxSong> ADISC_BOOK2_3 = of("adisc_book2_3");
+    RegistryKey<JukeboxSong> ADISC_BOOK2_4 = of("adisc_book2_4");
+    RegistryKey<JukeboxSong> ADISC_BOOK2_5 = of("adisc_book2_5");
+    RegistryKey<JukeboxSong> ADISC_BOOK2_6 = of("adisc_book2_6");
+    RegistryKey<JukeboxSong> ADISC_BOOK2_7 = of("adisc_book2_7");
+    RegistryKey<JukeboxSong> ADISC_BOOK2_8 = of("adisc_book2_8");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_1 = of("adisc_book3_1");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_10 = of("adisc_book3_10");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_2 = of("adisc_book3_2");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_3 = of("adisc_book3_3");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_4 = of("adisc_book3_4");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_5 = of("adisc_book3_5");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_6 = of("adisc_book3_6");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_7 = of("adisc_book3_7");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_8 = of("adisc_book3_8");
+    RegistryKey<JukeboxSong> ADISC_BOOK3_9 = of("adisc_book3_9");
 
 
     private static RegistryKey<JukeboxSong> of(String id) {
@@ -215,7 +257,48 @@ public interface ModJukeboxSongs {
         register(registry, ADISC_COMEWITHME_8, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_8, 252, 15);
         register(registry, ADISC_COMEWITHME_9, ModSoundEvents.ADISC_MUSIC_DISC_COMEWITHME_9, 90, 15);
 
+        register(registry, ADISC_THANK17_1, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_1, 289, 15);
+        register(registry, ADISC_THANK17_10, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_10, 177, 15);
+        register(registry, ADISC_THANK17_11, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_11, 229, 15);
+        register(registry, ADISC_THANK17_12, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_12, 271, 15);
+        register(registry, ADISC_THANK17_13, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_13, 245, 15);
+        register(registry, ADISC_THANK17_14, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_14, 264, 15);
+        register(registry, ADISC_THANK17_2, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_2, 256, 15);
+        register(registry, ADISC_THANK17_3, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_3, 224, 15);
+        register(registry, ADISC_THANK17_4, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_4, 269, 15);
+        register(registry, ADISC_THANK17_5, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_5, 262, 15);
+        register(registry, ADISC_THANK17_6, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_6, 219, 15);
+        register(registry, ADISC_THANK17_7, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_7, 200, 15);
+        register(registry, ADISC_THANK17_8, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_8, 226, 15);
+        register(registry, ADISC_THANK17_9, ModSoundEvents.ADISC_MUSIC_DISC_THANK17_9, 340, 15);
 
+        register(registry, ADISC_BOOK1_1, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_1, 50, 15);
+        register(registry, ADISC_BOOK1_2, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_2, 271, 15);
+        register(registry, ADISC_BOOK1_3, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_3, 198, 15);
+        register(registry, ADISC_BOOK1_4, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_4, 240, 15);
+        register(registry, ADISC_BOOK1_5, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_5, 256, 15);
+        register(registry, ADISC_BOOK1_6, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_6, 248, 15);
+        register(registry, ADISC_BOOK1_7, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_7, 243, 15);
+        register(registry, ADISC_BOOK1_8, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_8, 258, 15);
+        register(registry, ADISC_BOOK1_9, ModSoundEvents.ADISC_MUSIC_DISC_BOOK1_9, 35, 15);
+        register(registry, ADISC_BOOK2_1, ModSoundEvents.ADISC_MUSIC_DISC_BOOK2_1, 216, 15);
+        register(registry, ADISC_BOOK2_2, ModSoundEvents.ADISC_MUSIC_DISC_BOOK2_2, 220, 15);
+        register(registry, ADISC_BOOK2_3, ModSoundEvents.ADISC_MUSIC_DISC_BOOK2_3, 166, 15);
+        register(registry, ADISC_BOOK2_4, ModSoundEvents.ADISC_MUSIC_DISC_BOOK2_4, 218, 15);
+        register(registry, ADISC_BOOK2_5, ModSoundEvents.ADISC_MUSIC_DISC_BOOK2_5, 213, 15);
+        register(registry, ADISC_BOOK2_6, ModSoundEvents.ADISC_MUSIC_DISC_BOOK2_6, 205, 15);
+        register(registry, ADISC_BOOK2_7, ModSoundEvents.ADISC_MUSIC_DISC_BOOK2_7, 201, 15);
+        register(registry, ADISC_BOOK2_8, ModSoundEvents.ADISC_MUSIC_DISC_BOOK2_8, 210, 15);
+        register(registry, ADISC_BOOK3_1, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_1, 194, 15);
+        register(registry, ADISC_BOOK3_10, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_10, 217, 15);
+        register(registry, ADISC_BOOK3_2, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_2, 48, 15);
+        register(registry, ADISC_BOOK3_3, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_3, 192, 15);
+        register(registry, ADISC_BOOK3_4, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_4, 256, 15);
+        register(registry, ADISC_BOOK3_5, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_5, 185, 15);
+        register(registry, ADISC_BOOK3_6, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_6, 67, 15);
+        register(registry, ADISC_BOOK3_7, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_7, 211, 15);
+        register(registry, ADISC_BOOK3_8, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_8, 198, 15);
+        register(registry, ADISC_BOOK3_9, ModSoundEvents.ADISC_MUSIC_DISC_BOOK3_9, 198, 15);
 
     }
 }
