@@ -5,6 +5,7 @@ import net.fabricmc.fabric.api.datagen.v1.provider.FabricLanguageProvider;
 import net.luckshark.item.ModItemGroups;
 import net.luckshark.item.ModItems;
 import net.luckshark.tags.ModItemTags;
+import net.luckshark.tool.SongsCount;
 import net.minecraft.registry.RegistryWrapper;
 
 import java.util.concurrent.CompletableFuture;
@@ -15,6 +16,26 @@ public class ModENUSLanProvider extends FabricLanguageProvider {
     }
     @Override
     public void generateTranslations(RegistryWrapper.WrapperLookup registryLookup, TranslationBuilder translationBuilder) {
+        translationBuilder.add(ModItems.MENU, "Menu");
+        translationBuilder.add("item.adisc.menu.tooltip_null", "");
+        translationBuilder.add("item.adisc.menu.tooltip_2","\u00A7oBands：\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_20","\u00A77Only some of the tracks are included\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_21","It's MyGO!!!!!");
+        translationBuilder.add("item.adisc.menu.tooltip_22","CRYCHIC");
+        translationBuilder.add("item.adisc.menu.tooltip_23", "Ave Mujica");
+        translationBuilder.add("item.adisc.menu.tooltip_24", "结束バンド");
+        translationBuilder.add("item.adisc.menu.tooltip_25", "TOGENASHI TOGEARI");
+        translationBuilder.add("item.adisc.menu.tooltip_26", "放課後ティータイム");
+
+        translationBuilder.add("item.adisc.menu.tooltip_3","\u00A7oRecord：：\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_31", "THANK YOU BLUE - DAOKO");
+        translationBuilder.add("item.adisc.menu.tooltip_32", "THE BOOK - YOASOBI");
+        translationBuilder.add("item.adisc.menu.tooltip_33", "THE BOOK 2 - YOASOBI");
+        translationBuilder.add("item.adisc.menu.tooltip_34", "THE BOOK 3 - YOASOBI");
+
+        translationBuilder.add("item.adisc.menu.tooltip_end1","Total:" + SongsCount.songsCount());
+        translationBuilder.add("item.adisc.menu.tooltip_end2","If there is any infringement, please contact to delete");
+
         translationBuilder.add(ModItemGroups.ADISC_GROUP, "ADisc");
         translationBuilder.add(ModItems.ADISC_MUSIC_DISC_TEST, "Adisc Test");
         translationBuilder.add(ModItems.ADISC_MUSIC_DISC_KOKYUU, "It's MyGO!!!!!");
@@ -230,7 +251,7 @@ public class ModENUSLanProvider extends FabricLanguageProvider {
         translationBuilder.add("jukebox_song.adisc.adisc_thank17_9", "DAOKO - 同じ夜");
 
         translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOOK1_1, "THE BOOK");
-        translationBuilder.add("jukebox_song.adisc.adisc_book1_1", "YOASOBI - Epilogue");
+        translationBuilder.add("jukebox_song.adisc.adisc_book1_1", "THE BOOK - Epilogue");
         translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOOK1_2, "THE BOOK");
         translationBuilder.add("jukebox_song.adisc.adisc_book1_2", "YOASOBI - アンコール");
         translationBuilder.add(ModItems.ADISC_MUSIC_DISC_BOOK1_3, "THE BOOK");

@@ -23,6 +23,8 @@ public class ModItemGroups {
                         .displayName(Text.translatable("itemGroup.adisc.adisc_group"))
                         .icon(() -> new ItemStack(ModItems.ADISC_MUSIC_DISC_TEST))
                         .entries((displayContext, entries) -> {
+                            entries.add(ModItems.MENU);
+
                             entries.add(ModItems.ADISC_MUSIC_DISC_HARUHIKAGE);
                             entries.add(ModItems.ADISC_MUSIC_DISC_HEKITENBANSOU);
                             entries.add(ModItems.ADISC_MUSIC_DISC_KAISOU);

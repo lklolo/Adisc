@@ -3,6 +3,7 @@ package net.luckshark.item;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.luckshark.ADisc;
+import net.luckshark.item.custom.Menu;
 import net.luckshark.sound.ModJukeboxSongs;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
@@ -11,6 +12,8 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.Rarity;
 
 public class ModItems {
+    public static final Item MENU = registerItems("menu", new Menu(new Item.Settings().maxCount(1)));
+
     public static final Item ADISC_MUSIC_DISC_TEST = registerItems("adisc_music_disc_test", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_TEST)));
     public static final Item ADISC_MUSIC_DISC_HARUHIKAGE = registerItems("adisc_music_disc_haruhikage", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_HARUHIKAGE)));
     public static final Item ADISC_MUSIC_DISC_HEKITENBANSOU = registerItems("adisc_music_disc_hekitenbansou", new Item(new Item.Settings().maxCount(1).rarity(Rarity.RARE).jukeboxPlayable(ModJukeboxSongs.ADISC_HEKITENBANSOU)));

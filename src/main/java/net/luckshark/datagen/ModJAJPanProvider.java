@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricLanguageProvider;
 import net.luckshark.item.ModItemGroups;
 import net.luckshark.item.ModItems;
+import net.luckshark.tool.SongsCount;
 import net.minecraft.registry.RegistryWrapper;
 
 import java.util.concurrent.CompletableFuture;
@@ -14,6 +15,26 @@ public class ModJAJPanProvider extends FabricLanguageProvider {
     }
     @Override
     public void generateTranslations(RegistryWrapper.WrapperLookup registryLookup, TranslationBuilder translationBuilder) {
+        translationBuilder.add(ModItems.MENU, "ディレクトリ");
+        translationBuilder.add("item.adisc.menu.tooltip_null", "");
+        translationBuilder.add("item.adisc.menu.tooltip_2","\u00A7oオーケストラ：\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_20","\u00A77収録曲は一部のみ\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_21","It's MyGO!!!!!");
+        translationBuilder.add("item.adisc.menu.tooltip_22","CRYCHIC");
+        translationBuilder.add("item.adisc.menu.tooltip_23", "Ave Mujica");
+        translationBuilder.add("item.adisc.menu.tooltip_24", "结束バンド");
+        translationBuilder.add("item.adisc.menu.tooltip_25", "TOGENASHI TOGEARI");
+        translationBuilder.add("item.adisc.menu.tooltip_26", "放課後ティータイム");
+
+        translationBuilder.add("item.adisc.menu.tooltip_3","\u00A7o特別コレクション：\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_31", "THANK YOU BLUE - DAOKO");
+        translationBuilder.add("item.adisc.menu.tooltip_32", "THE BOOK - YOASOBI");
+        translationBuilder.add("item.adisc.menu.tooltip_33", "THE BOOK 2 - YOASOBI");
+        translationBuilder.add("item.adisc.menu.tooltip_34", "THE BOOK 3 - YOASOBI");
+
+        translationBuilder.add("item.adisc.menu.tooltip_end1","合計" + SongsCount.songsCount());
+        translationBuilder.add("item.adisc.menu.tooltip_end2","もし侵害があれば、削除するために連絡してください。");
+
         translationBuilder.add(ModItemGroups.ADISC_GROUP, "ADisc");
         translationBuilder.add(ModItems.ADISC_MUSIC_DISC_TEST, "Adisc Test");
         translationBuilder.add(ModItems.ADISC_MUSIC_DISC_KOKYUU, "It's MyGO!!!!!");
