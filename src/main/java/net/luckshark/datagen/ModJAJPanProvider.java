@@ -15,25 +15,28 @@ public class ModJAJPanProvider extends FabricLanguageProvider {
     }
     @Override
     public void generateTranslations(RegistryWrapper.WrapperLookup registryLookup, TranslationBuilder translationBuilder) {
-        translationBuilder.add(ModItems.MENU, "ディレクトリ");
+        translationBuilder.add(ModItems.MENU, "メニュー");
+        translationBuilder.add("item.adisc.menu.tooltip_menu", "メニュー");
+        translationBuilder.add("item.adisc.menu.tooltip_1", "\u00A77右クリックして使用\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_2", "\u00A77Shift キーを押しながらコンテンツを表示する\u00A7r");
+
         translationBuilder.add("item.adisc.menu.tooltip_null", "");
-        translationBuilder.add("item.adisc.menu.tooltip_2","\u00A7oオーケストラ：\u00A7r");
-        translationBuilder.add("item.adisc.menu.tooltip_20","\u00A77収録曲は一部のみ\u00A7r");
-        translationBuilder.add("item.adisc.menu.tooltip_21","It's MyGO!!!!!");
-        translationBuilder.add("item.adisc.menu.tooltip_22","CRYCHIC");
-        translationBuilder.add("item.adisc.menu.tooltip_23", "Ave Mujica");
-        translationBuilder.add("item.adisc.menu.tooltip_24", "结束バンド");
-        translationBuilder.add("item.adisc.menu.tooltip_25", "TOGENASHI TOGEARI");
-        translationBuilder.add("item.adisc.menu.tooltip_26", "放課後ティータイム");
+        translationBuilder.add("item.adisc.menu.tooltip_band","\u00A7o収録バンド：（一部のトラックのみ含まれる場合があります）\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_band_1","It's MyGO!!!!!");
+        translationBuilder.add("item.adisc.menu.tooltip_band_2","CRYCHIC");
+        translationBuilder.add("item.adisc.menu.tooltip_band_3", "Ave Mujica");
+        translationBuilder.add("item.adisc.menu.tooltip_band_4", "结束バンド");
+        translationBuilder.add("item.adisc.menu.tooltip_band_5", "TOGENASHI TOGEARI");
+        translationBuilder.add("item.adisc.menu.tooltip_band_6", "放課後ティータイム");
 
-        translationBuilder.add("item.adisc.menu.tooltip_3","\u00A7o特別コレクション：\u00A7r");
-        translationBuilder.add("item.adisc.menu.tooltip_31", "THANK YOU BLUE - DAOKO");
-        translationBuilder.add("item.adisc.menu.tooltip_32", "THE BOOK - YOASOBI");
-        translationBuilder.add("item.adisc.menu.tooltip_33", "THE BOOK 2 - YOASOBI");
-        translationBuilder.add("item.adisc.menu.tooltip_34", "THE BOOK 3 - YOASOBI");
+        translationBuilder.add("item.adisc.menu.tooltip_album","\u00A7o収録アルバム：\u00A7r");
+        translationBuilder.add("item.adisc.menu.tooltip_album_1", "THANK YOU BLUE - DAOKO");
+        translationBuilder.add("item.adisc.menu.tooltip_album_2", "THE BOOK - YOASOBI");
+        translationBuilder.add("item.adisc.menu.tooltip_album_3", "THE BOOK 2 - YOASOBI");
+        translationBuilder.add("item.adisc.menu.tooltip_album_4", "THE BOOK 3 - YOASOBI");
 
-        translationBuilder.add("item.adisc.menu.tooltip_end1","合計" + SongsCount.songsCount());
-        translationBuilder.add("item.adisc.menu.tooltip_end2","もし侵害があれば、削除するために連絡してください。");
+        translationBuilder.add("item.adisc.menu.tooltip_end_1","合計" + SongsCount.songsCount());
+        translationBuilder.add("item.adisc.menu.tooltip_end_2","もし侵害があれば、削除するために連絡してください。");
 
         translationBuilder.add(ModItemGroups.ADISC_GROUP, "ADisc");
         translationBuilder.add(ModItems.ADISC_MUSIC_DISC_TEST, "Adisc Test");

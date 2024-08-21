@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
 import net.luckshark.item.ModItems;
 import net.luckshark.tags.ModItemTags;
+import net.minecraft.item.Items;
 import net.minecraft.registry.RegistryWrapper;
 import net.minecraft.registry.tag.ItemTags;
 
@@ -155,6 +156,28 @@ public class ModItemTagsProvider extends FabricTagProvider.ItemTagProvider {
                 .add(ModItems.ADISC_MUSIC_DISC_BOOK3_9)
 
         ;
+
+        getOrCreateTagBuilder(ModItemTags.MINECRAFT_DISC)
+                .add(Items.MUSIC_DISC_13)
+                .add(Items.MUSIC_DISC_CAT)
+                .add(Items.MUSIC_DISC_BLOCKS)
+                .add(Items.MUSIC_DISC_CREATOR)
+                .add(Items.MUSIC_DISC_CREATOR_MUSIC_BOX)
+                .add(Items.MUSIC_DISC_FAR)
+                .add(Items.MUSIC_DISC_MALL)
+                .add(Items.MUSIC_DISC_MELLOHI)
+                .add(Items.MUSIC_DISC_STAL)
+                .add(Items.MUSIC_DISC_STRAD)
+                .add(Items.MUSIC_DISC_WARD)
+                .add(Items.MUSIC_DISC_11)
+                .add(Items.MUSIC_DISC_WAIT)
+                .add(Items.MUSIC_DISC_OTHERSIDE)
+                .add(Items.MUSIC_DISC_RELIC)
+                .add(Items.MUSIC_DISC_5)
+                .add(Items.MUSIC_DISC_PIGSTEP)
+                .add(Items.MUSIC_DISC_PRECIPICE)
+        ;
+
         getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS)
                 .addTag(ModItemTags.ADISC)
         ;
