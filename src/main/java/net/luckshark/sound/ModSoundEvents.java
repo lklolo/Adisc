@@ -7,7 +7,13 @@ import net.minecraft.registry.entry.RegistryEntry;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.util.Identifier;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class ModSoundEvents {
+
+    private static final Map<String, RegistryEntry.Reference<SoundEvent>> SOUND_EVENT_REGISTRY = new HashMap<>();
+
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TEST = registerReference("adisc_music_disc.test");
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_MAYOIUTA = registerReference("adisc_music_disc.mayoiuta");
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_NAMONAKI = registerReference("adisc_music_disc.namonaki");
@@ -145,12 +151,20 @@ public class ModSoundEvents {
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_7 = registerReference("adisc_music_disc.book3_7");
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_8 = registerReference("adisc_music_disc.book3_8");
     public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_BOOK3_9 = registerReference("adisc_music_disc.book3_9");
+    public static final RegistryEntry.Reference<SoundEvent> ADISC_MUSIC_DISC_TEST2 = registerReference("adisc_music_disc.test2");
 
 
     private static RegistryEntry.Reference<SoundEvent> registerReference(String name) {
         Identifier id = Identifier.of(ADisc.MOD_ID, name);
-        return Registry.registerReference(Registries.SOUND_EVENT, id, SoundEvent.of(id));
+        RegistryEntry.Reference<SoundEvent> reference =  Registry.registerReference(Registries.SOUND_EVENT, id, SoundEvent.of(id));
+        SOUND_EVENT_REGISTRY.put(name, reference);
+        return reference;
     }
+
+    public static RegistryEntry.Reference<SoundEvent> getSoundEventReference(String name) {
+        return SOUND_EVENT_REGISTRY.get(name);
+    }
+
     public static void registerModSoundEvents() {
     }
 }

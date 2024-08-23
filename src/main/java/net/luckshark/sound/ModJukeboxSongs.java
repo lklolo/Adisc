@@ -150,7 +150,6 @@ public interface ModJukeboxSongs {
     RegistryKey<JukeboxSong> ADISC_BOOK3_8 = of("adisc_book3_8");
     RegistryKey<JukeboxSong> ADISC_BOOK3_9 = of("adisc_book3_9");
 
-
     private static RegistryKey<JukeboxSong> of(String id) {
         return RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(ADisc.MOD_ID, id));
     }
@@ -161,7 +160,8 @@ public interface ModJukeboxSongs {
                 key, new JukeboxSong(soundEvent, Text.translatable(Util.createTranslationKey("jukebox_song", key.getValue())), (float)lengthInSeconds, comparatorOutput)
         );
     }
-    static void bootstrap(Registerable<JukeboxSong> registry) {
+
+     static void bootstrap(Registerable<JukeboxSong> registry) {
         register(registry, ADISC_TEST, ModSoundEvents.ADISC_MUSIC_DISC_TEST, 252, 15);
         register(registry, ADISC_KOKYUU, ModSoundEvents.ADISC_MUSIC_DISC_KOKYUU, 219, 15);
         register(registry, ADISC_KAISOU, ModSoundEvents.ADISC_MUSIC_DISC_KAISOU, 261, 15);

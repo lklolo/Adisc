@@ -436,5 +436,10 @@
   },
   "adisc_music_disc.book3_9" : {
     "sounds" : [ "adisc:book3_9" ]
+  },
+  "adisc_music_disc.test2": {
+    "sounds": [
+      "adisc:test2"
+    ]
   }
 }

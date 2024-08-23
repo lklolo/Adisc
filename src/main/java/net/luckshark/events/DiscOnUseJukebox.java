@@ -39,7 +39,7 @@ public class DiscOnUseJukebox {
         itemStack.decrement(1);
     }
 
-    public static boolean isJukebox(World world, BlockPos pos) {
+    private static boolean isJukebox(World world, BlockPos pos) {
         BlockState blockState = world.getBlockState(pos);
         Block block = blockState.getBlock();
         if (block instanceof JukeboxBlock jukeboxBlock) {
@@ -48,7 +48,7 @@ public class DiscOnUseJukebox {
         return false;
     }
 
-    public static boolean isCreative(PlayerEntity player) {
+    private static boolean isCreative(PlayerEntity player) {
         return player.isCreative();
     }
 

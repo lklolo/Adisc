@@ -3,6 +3,7 @@ package net.luckshark;
 import net.fabricmc.api.ModInitializer;
 
 import net.luckshark.block.ModBlocks;
+import net.luckshark.events.DiscOnUes;
 import net.luckshark.events.DiscOnUseJukebox;
 import net.luckshark.item.ModItemGroups;
 import net.luckshark.item.ModItems;
@@ -22,5 +23,6 @@ public class ADisc implements ModInitializer {
 		ModSoundEvents.registerModSoundEvents();
 		ModItemTags.registerModItemTags();
 		DiscOnUseJukebox.register();
+		DiscOnUes.register();
 	}
 }
