@@ -1,121 +1,195 @@
-Creative Commons Legal Code
+（本许可为中文版，并一版两语言，分别为中文和英文。英文由机器自动翻译，未经人工检验，不保证准确，可
+能产生歧义，只供参考使用。本许可一切遵循中文内容。）(This license is in Chinese, and one version
+ is in two languages, Chinese and English. English is automatically translated by the
+ machine, without human inspection, and is not guaranteed to be accurate
+It can cause ambiguity and is for reference only. This license is in accordance with the
+ Chinese content.)
 
-CC0 1.0 Universal
+Luckshark专用公开许可协议(LDPL)v1
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+版权所有 (c) 2024 Luckshark Inc. 保留所有权利。
 
-Statement of Purpose
+0.关键名词和称呼定义
+    i.“本许可”是指 Luckshark 专用公开许可协议(LDPL)v1。
+    ii.“本软件”是指根据本许可的任何受版权保护的软件和相关文档文件及副本或重要部分。
+    iii.“被许可方”或“接收者”是指持有本软件的人或组织。
+    iv.每个被许可方都可被称为“您”。
+    v.“使用”和“操作”是指对本软件的运行、安装和部署、修改、复制、分发。
+    vi.“源代码”是指本软件的所有代码，包括但不限于第三方库和外部模块和主要原创部分代码以及外部借鉴、
+    摘抄的非原创代码。
+    vii.“地方”是指可以运行和操作本软件的平台或硬件。
+    iix.“保留本许可”是指保留本许可的完全原始内容。对本许可的内容有任何更改，所产生的本许可的派生
+    许可均不视为本许可。
+    ix.“本软件的原始版本”是指由 Luckshark 发布的，未经任何被许可方修改的本软件。
+    x.“修改后的本软件”包括但不限于：通过添加/删除/修改本软件的源代码所产生的依旧遵循本许可的软件、
+    部分代码与本软件的源代码中的原创内容高度相似的第三方软件、通过摘抄/搬运（可适度修改）本软件的
+    源代码中的原创内容，添加到第三方软件中所产生的派生软件。
+    xi.“本软件的派生软件”包括修改后的本软件和主要功能并非本软件实现的功能，但含有本软件的高度原创
+    的部分功能或全部功能（无视代码内容只考虑实现功能）的软件。
+    xii.“现状(as is)”是一种法律术语，表示软件是按照当前状态和条件提供的。
+    xiii.“Luckshark”、“Luckshark Inc.”是指组织 Luckshark，并不一定指 Luckshark公司，它可以
+    是区别于当代法律中的任何一种社会组织的组织。并受中国大陆法律管辖。
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+本许可与其他常见的版权与开放许可协议内容由较大区别，尤其是在本软件的修改和二次分发部分。请在使用和
+操作本软件时额外注意。本许可中使用的大量名称和称呼均在上述内容“条目0：关键名词和称呼定义”中解释，
+可能区别于常用意义，但没有在文中额外标注，请额外注意。凡是被许可方使用和操作过本软件，均视为以熟知
+并同意本许可的内容。
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+特此授予任何免费获得本软件的被许可方，遵守当地法律的情况下享有在本许可下的权利。并在使用和操作本软
+件时，须遵守本许可：
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+1. 被许可方拥有本软件的使用权，您可以在任何地方使用和操作本软件。但须遵守以下条款：
+    i.任何对本软件的使用须保留本许可。
+    ii.禁止商用本软件，包括但不限于：二次售卖、安装/使用/插入在任何提供商业服务的计算机程序中。
+    iii.禁止使用本软件进行任何非法行为，包括但不限于诈骗、网络攻击或侵犯他人隐私。
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+2. 被许可方拥有本软件的修改权和复制权，您可以自由复制和修改本软件的任何内容。但须遵守以下条款：
+    i.任何对本软件的操作须保留本许可。
+    ii.被修改的本软件只允许在被许可方内部使用，禁止二次分发和传播。
+    iii. 修改后的本软件不得以商业形式发布或用于商业目的。
+    iv. 被许可方必须确保所有对本软件的修改不违反相关法律，并且对由此产生的后果负责。
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+3.许可方拥有 本软件的原始版本（此条目中简称“本软件”）的分发权，但须遵守以下条款：
+    i.保留本许可。
+    ii.免费发分本软件。
+    iii.标注原始作者和版权信息。保证所有的再分发行为仍然遵守本许可证的条款。
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+4.禁止在未经允许的情况下二次分发修改后的本软件和本软件的派生软件。对于修改后的本软件和本软件的派生
+软件，无论修改内容，未经持有 Luckshark 事先的书面同意许可，您不得分发、再许可、出租、租赁或以任何
+方式提供给他人，无论是以商业用途还是非商业用途的方式。此禁令适用于所有形式的分发，包括但不限于通过
+网络、媒介共享、代码仓库（如GitHub）或任何其他传输手段。
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+5.您可以二次发布本软件的派生软件，如要发布修改后的本软件，您须遵守以下条款：
+    i.持有 Luckshark 书面同意许可。
+    ii.保留本许可。
+    iii.免费发分本软件。
+    iv.标注原始作者和版权信息。保证所有的再分发行为仍然遵守本许可证的条款。
+如要发布本软件的派生软件并除修改后的本软件外，您须遵守以下条款：
+    i.持有 Luckshark 书面同意许可。
 
-4. Limitations and Disclaimers.
+6. 责任与担保限制。本软件按“现状”提供，Luckshark 不提供任何明示或暗示的担保，包括但不限于对特定
+用途的适用性、适销性或非侵权的保证。使用者应自行承担使用本软件所产生的风险。在任何情况下，Luckshark
+ 或其贡献者均不对因使用或无法使用本软件所导致的任何直接、间接、偶然、特殊、或后果性的损害承担责任
+ （包括但不限于采购替代商品或服务，使用价值损失，数据损失，或商业中断），无论责任理论是合同、侵权
+ 行为（包括疏忽）或其他，且即使已被告知可能会发生此类损害。
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+7. 专利权。通过使用本软件，用户获得非独占的全球性专利权授权，允许用户在遵守本许可证的条件下使用、
+修改和分发本软件，免受 Luckshark 基于专利权提出的任何诉讼。若用户违反本许可证中的任何条款，此专
+利授权将自动失效。
+
+8. 贡献与合规。若您向本软件提交贡献，您同意您的贡献将根据本许可证的条款进行分发，并且您拥有该贡献
+的权利或已获得相关权利人的授权。您不得通过使用本软件以任何方式声明或暗示您与 Luckshark 有任何形
+式的合作关系，除非事先获得明确书面许可。
+
+(The English content is for informational purposes only and does not represent the content of this license):
+
+Luckshark Dedicated Public License (LDPL) v1
+
+Copyright (c) 2024 Luckshark Inc. All rights reserved.
+
+0.Key Terms and Definitions
+    i. "This License" refers to the Luckshark Dedicated Public License (LDPL) v1.
+    ii. "The Software" refers to any copyrighted software and associated documentation files,
+    copies, or significant portions of it covered by this License.
+    iii. "Licensee" or "Recipient" refers to the individual or organization holding the Software.
+    iv. Each Licensee may be referred to as "You."
+    v. "Use" and "Operation" refer to running, installing, deploying, modifying, copying,
+    or distributing the Software.
+    vi. "Source Code" refers to all code of the Software, including but not limited to
+    third-party libraries, external modules, original parts, and non-original code borrowed
+    or extracted.
+    vii. "Place" refers to any platform or hardware where the Software can be run or operated.
+    viii. "Retaining This License" means keeping the complete original content of this License
+    ntact. Any modification to this License results in a derivative license and is not
+    considered this License.
+    ix. "The Original Version of the Software" refers to the version of the Software released
+    by Luckshark, unmodified by any Licensee.
+    x. "Modified Software" includes, but is not limited to, any software created by adding,
+    deleting, or modifying the source code of the Software, third-party software where the
+    code is highly similar to the original content of the Software, or derivative software
+    resulting from borrowing or copying the original content of the Software (with possible
+    moderate changes) into third-party software.
+    xi. "Derivative Software" includes Modified Software and software where the primary
+    function is not achieved by the Software but contains significant portions or all of
+    the Software's original functionality, regardless of code content (only considering
+    functionality).
+    xii. "As Is" is a legal term indicating that the software is provided in its current
+    state and condition.
+    xiii. "Luckshark" and "Luckshark Inc." refer to the organization Luckshark, which may
+    differ from the contemporary legal understanding of a corporation, and it is governed
+    by the laws of mainland China.
+
+This License significantly differs from common copyright and open licenses, especially
+regarding software modification and redistribution. Please pay special attention when
+using and operating the Software. Many terms used in this License are defined in
+"Clause 0: Key Terms and Definitions" and may differ from common usage, but they are
+not further marked in the text. If a Licensee uses or operates the Software, it is
+considered that they have understood and agreed to the terms of this License.
+
+Hereby, any Licensee who obtains the Software for free is granted rights under this
+License, subject to local laws. When using and operating the Software, the following
+License terms must be adhered to:
+
+1.The Licensee is granted the right to use the Software, and you may use and operate the
+Software in any Place. However, the following terms must be followed:
+    i. Any use of the Software must retain This License.
+    ii. The Software may not be used for commercial purposes, including but not limited to
+    reselling, installing/using/integrating it into any software that provides commercial
+    services.
+    iii. The Software may not be used for illegal activities, including but not limited to
+    fraud, cyber-attacks, or violations of others' privacy.
+
+2.The Licensee is granted the right to modify and copy the Software, and you are free to
+copy and modify any part of the Software. However, the following terms must be followed:
+    i. Any operation on the Software must retain This License.
+    ii. The modified Software is only allowed for internal use by the Licensee and may not
+    be redistributed or spread.
+    iii. The modified Software may not be released or used for commercial purposes.
+    iv. The Licensee must ensure that all modifications to the Software comply with applicable
+    laws and take responsibility for any consequences arising from such modifications.
+
+3.The Licensor retains the right to distribute the Original Version of the Software
+(referred to as "The Software" in this clause), but the following terms must be followed:
+    i. Retain This License.
+    ii. Distribute the Software for free.
+    iii. Credit the original author and copyright information. Ensure that all redistribution
+    complies with the terms of this License.
+
+4.Redistribution of Modified Software and Derivative Software without permission is prohibited.
+For Modified Software and Derivative Software, regardless of the modification, you may not
+distribute, sublicense, lease, rent, or provide the Software to others in any manner, whether
+for commercial or non-commercial purposes, without prior written consent from Luckshark. This
+prohibition applies to all forms of distribution, including but not limited to network sharing,
+media sharing, code repositories (e.g., GitHub), or any other transmission method.
+
+5.You may release Derivative Software, and if releasing Modified Software, you must comply
+with the following terms:
+i. Obtain written consent from Luckshark.
+ii. Retain This License.
+iii. Distribute the Software for free.
+iv. Credit the original author and copyright information. Ensure that all redistribution
+complies with the terms of this License.
+If releasing Derivative Software (excluding Modified Software), you must comply with the
+following terms:
+i. Obtain written consent from Luckshark.
+
+6.Limitation of Liability and Warranty. The Software is provided "As Is", and Luckshark provides
+no express or implied warranties, including but not limited to warranties of merchantability,
+fitness for a particular purpose, or non-infringement. Users bear all risks associated with
+using the Software. In no event shall Luckshark or its contributors be liable for any direct,
+indirect, incidental, special, or consequential damages (including but not limited to
+the procurement of substitute goods or services, loss of use, data, or profits, or
+business interruption) arising from the use or inability to use the Software, whether
+in contract, tort (including negligence), or otherwise, even if advised of the possibility
+of such damages.
+
+7.Patent Rights. By using the Software, users are granted a non-exclusive, worldwide patent
+license, allowing them to use, modify, and distribute the Software under this License,
+free from any patent litigation by Luckshark. If users violate any terms of this License,
+this patent license will automatically terminate.
+
+8.Contributions and Compliance. If you submit contributions to the Software, you agree that
+your contributions will be distributed under the terms of this License and that you own
+the rights to your contributions or have obtained the necessary permissions from the relevant
+rights holders. You may not claim or imply any form of partnership with Luckshark through
+the use of the Software unless you have obtained explicit written permission beforehand.
