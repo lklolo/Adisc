@@ -5,7 +5,7 @@ Luckshark专用公开许可协议(LDPL)v1
 版权所有 (c) 2024 Luckshark Inc. 保留所有权利。
 
 0.关键名词和称呼定义
-    i.“本许可”是指 Luckshark 专用公开许可协议(LDPL)v1。
+    i.“本许可”是指 Luckshark专用公开许可协议(LDPL)v1。
     ii.“本软件”是指根据本许可的任何受版权保护的软件和相关文档文件（“软件”）及副本或重要部分。
     iii.“被许可方”或“接收者”是指持有本软件的人或组织。
     iv.每个被许可方都可被称为“您”。
@@ -63,48 +63,48 @@ Luckshark Dedicated Public License (LDPL) v1
 Copyright (c) 2024 Luckshark Inc. All rights reserved.
 
 0. Definitions of Key Terms and References i. "This License" refers to the Luckshark Dedicated Public License (LDPL) v1.
-ii. "This Software" refers to any copyrighted software and related documentation files ("Software") under this License and any copies or substantial portions of it.
-iii. "Licensee" or "Recipient" refers to any person or organization in possession of this Software.
-iv. Each Licensee may also be referred to as "You."
-v. "Use" and "Operate" refer to the running, installation and deployment, modification, copying, and distribution of this Software.
-vi. "Source Code" refers to all code of this Software, including but not limited to third-party libraries and external modules, original sections of the code, as well as non-original code borrowed or excerpted from external sources.
-vii. "Platform" refers to the platform or hardware where this Software can be run and operated.
-viii. "Preserve This License" means to retain the original content of this License in its entirety. Any changes made to the content of this License will result in a derivative license, which is not considered this License.
-ix. "The Original Version of This Software" refers to the version of the Software released by Luckshark, unmodified by any Licensee.
-x. "Modified Software" includes but is not limited to: software resulting from adding/removing/modifying the source code of this Software, third-party software whose code is highly similar to the original content of this Software's source code, and derivative software where original content from this Software's source code (with or without slight modifications) is incorporated into third-party software.
-xi. "Derived Software of This Software" includes Modified Software and software whose primary functions are not implemented by This Software but contain highly original portions or full functionality of This Software (ignoring code content, considering only functionality).
-xii. "As is" means in its current state and condition.
-xiii. "Luckshark," "Luckshark Inc." refers to the organization Luckshark, which may or may not refer to the Luckshark company and can be an organization distinct from any form of entity under contemporary law.
+    ii. "This Software" refers to any copyrighted software and related documentation files ("Software") under this License and any copies or substantial portions of it.
+    iii. "Licensee" or "Recipient" refers to any person or organization in possession of this Software.
+    iv. Each Licensee may also be referred to as "You."
+    v. "Use" and "Operate" refer to the running, installation and deployment, modification, copying, and distribution of this Software.
+    vi. "Source Code" refers to all code of this Software, including but not limited to third-party libraries and external modules, original sections of the code, as well as non-original code borrowed or excerpted from external sources.
+    vii. "Platform" refers to the platform or hardware where this Software can be run and operated.
+    viii. "Preserve This License" means to retain the original content of this License in its entirety. Any changes made to the content of this License will result in a derivative license, which is not considered this License.
+    ix. "The Original Version of This Software" refers to the version of the Software released by Luckshark, unmodified by any Licensee.
+    x. "Modified Software" includes but is not limited to: software resulting from adding/removing/modifying the source code of this Software, third-party software whose code is highly similar to the original content of this Software's source code, and derivative software where original content from this Software's source code (with or without slight modifications) is incorporated into third-party software.
+    xi. "Derived Software of This Software" includes Modified Software and software whose primary functions are not implemented by This Software but contain highly original portions or full functionality of This Software (ignoring code content, considering only functionality).
+    xii. "As is" means in its current state and condition.
+    xiii. "Luckshark," "Luckshark Inc." refers to the organization Luckshark, which may or may not refer to the Luckshark company and can be an organization distinct from any form of entity under contemporary law.
 
 This License differs significantly from other common copyright and open licenses, particularly concerning modifications and redistribution of This Software. Please pay extra attention when using and operating This Software. The various terms and references used throughout this License are explained in the above section, "Clause (0): Definitions of Key Terms and References," and may differ from common meanings, but they are not additionally noted in the text. Please take extra care. Any Licensee using or operating This Software is deemed to have acknowledged and agreed to the content of this License.
 
 It is hereby granted to any Licensee who obtains This Software free of charge, subject to compliance with local laws, the rights under this License. When using and operating This Software, the following License must be adhered to:
 
 Licensees have the right to use This Software, and You may use and operate This Software anywhere. However, the following conditions must be observed:
-i. Any use of This Software must retain This License.
-ii. Commercial use of This Software is prohibited, including but not limited to resale, installation/use/integration in any computer programs that provide commercial services.
-iii. Use of This Software for illegal activities is prohibited, including but not limited to fraud, cyberattacks, or privacy violations.
+    i. Any use of This Software must retain This License.
+    ii. Commercial use of This Software is prohibited, including but not limited to resale, installation/use/integration in any computer programs that provide commercial services.
+    iii. Use of This Software for illegal activities is prohibited, including but not limited to fraud, cyberattacks, or privacy violations.
 
 Licensees have the right to modify and copy This Software, and You may freely copy and modify any content of This Software. However, the following conditions must be observed:
-i. Any operation on This Software must retain This License.
-ii. Modified Software may only be used internally by the Licensee, and redistribution and dissemination are prohibited. For details, see Clause (4).
-iii. Modified Software may not be released or used for commercial purposes.
-iv. Licensees must ensure that all modifications to This Software comply with applicable laws and assume responsibility for any consequences arising from such modifications.
+    i. Any operation on This Software must retain This License.
+    ii. Modified Software may only be used internally by the Licensee, and redistribution and dissemination are prohibited. For details, see Clause (4).
+    iii. Modified Software may not be released or used for commercial purposes.
+    iv. Licensees must ensure that all modifications to This Software comply with applicable laws and assume responsibility for any consequences arising from such modifications.
 
 Licensees have the right to distribute the original version of This Software (referred to in this clause as the "Original Software"), but the following conditions must be observed:
-i. Retain This License.
-ii. Distribute the Original Software for free.
-iii. Acknowledge the original author and copyright information. Ensure that all redistribution activities still comply with the terms of this License.
+    i. Retain This License.
+    ii. Distribute the Original Software for free.
+    iii. Acknowledge the original author and copyright information. Ensure that all redistribution activities still comply with the terms of this License.
 
 Redistributing Modified Software and Derived Software of This Software without permission is prohibited. For Modified Software and Derived Software, regardless of the modifications, You may not distribute, sublicense, rent, lease, or otherwise make it available to other recipients (excluding internal use by the Licensee) without prior written consent from Luckshark, whether for commercial or non-commercial purposes. This prohibition applies to all forms of distribution, including but not limited to distribution via the network, media sharing, code repositories (such as GitHub), or any other means of transmission.
 
 You may re-release Derived Software of This Software. To release Modified Software, You must comply with the following conditions:
-i. Obtain prior written consent from Luckshark.
-ii. Retain This License.
-iii. Distribute This Software for free.
-iv. Acknowledge the original author and copyright information. Ensure that all redistribution activities still comply with the terms of this License.
-To release Derived Software (excluding Modified Software), You must comply with the following conditions:
-i. Obtain prior written consent from Luckshark.
+    i. Obtain prior written consent from Luckshark.
+    ii. Retain This License.
+    iii. Distribute This Software for free.
+    iv. Acknowledge the original author and copyright information. Ensure that all redistribution activities still comply with the terms of this License.
+    To release Derived Software (excluding Modified Software), You must comply with the following conditions:
+    i. Obtain prior written consent from Luckshark.
 
 Liability and Warranty Disclaimer. This Software is provided "as is," and Luckshark makes no express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The user assumes all risks associated with using This Software. In no event shall Luckshark or its contributors be liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use This Software (including but not limited to the procurement of substitute goods or services, loss of use, data, or profits, or business interruption), regardless of the cause of action (contract, tort, including negligence, or otherwise), even if advised of the possibility of such damages.
 
